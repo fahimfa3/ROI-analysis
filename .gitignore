@@ -2,6 +2,11 @@
 data/raw/*.csv
 data/raw/*.xlsx
 data/raw/*.parquet
+*.csv
+*.xlsx
+*.parquet
+retail_cleaned.csv
+retail.db
 
 # Python
 __pycache__/
